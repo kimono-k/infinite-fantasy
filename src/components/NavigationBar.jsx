@@ -7,19 +7,13 @@ function NavigationBar() {
         <div className="logo-text text-white font-bold">Infinite Fantasy</div>
         <ul className="flex space-x-4">
           <li>
-            <a className="text-white hover:text-gray-300" href="#">
-              Home
-            </a>
+            <a className="text-white hover:text-gray-300">Home</a>
           </li>
           <li>
-            <a className="text-white hover:text-gray-300" href="#">
-              About
-            </a>
+            <a className="text-white hover:text-gray-300">About</a>
           </li>
           <li>
-            <a className="text-white hover:text-gray-300" href="#">
-              Contact
-            </a>
+            <a className="text-white hover:text-gray-300">Contact</a>
           </li>
         </ul>
       </div>
