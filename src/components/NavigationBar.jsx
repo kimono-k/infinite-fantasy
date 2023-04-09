@@ -6,15 +6,9 @@ function NavigationBar() {
       <div className="mt-1.5 flex justify-between items-center">
         <div className="logo-text text-white font-bold">Infinite Fantasy</div>
         <ul className="flex space-x-4">
-          <li>
-            <a className="text-white hover:text-gray-300">Home</a>
-          </li>
-          <li>
-            <a className="text-white hover:text-gray-300">About</a>
-          </li>
-          <li>
-            <a className="text-white hover:text-gray-300">Contact</a>
-          </li>
+          <li>Home</li>
+          <li>About</li>
+          <li>Contact</li>
         </ul>
       </div>
     </nav>
