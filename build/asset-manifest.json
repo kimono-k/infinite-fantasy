@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/infinite-fantasy/static/css/main.af709689.css",
+    "main.js": "/infinite-fantasy/static/js/main.03e40b06.js",
+    "index.html": "/infinite-fantasy/index.html",
+    "main.af709689.css.map": "/infinite-fantasy/static/css/main.af709689.css.map",
+    "main.03e40b06.js.map": "/infinite-fantasy/static/js/main.03e40b06.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af709689.css",
+    "static/js/main.03e40b06.js"
+  ]
+}
