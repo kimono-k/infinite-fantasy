@@ -1,0 +1,21 @@
+body {
+  font-family: "Montserrat", sans-serif;
+}
+
+.logo-text {
+  font-size: x-large;
+}
+
+.hero-text {
+  font-size: xx-large;
+  font-weight: bolder;
+}
+
+.hero-bg-image {
+  background-image: url("https://media.tenor.com/ll3rQ9a_zqYAAAAC/galaxy.gif");
+  background-repeat: round;
+}
+
+.hero-height {
+  height: 500px;
+}
